@@ -12,9 +12,11 @@ There are 4 total chapters in this game.
 I wont describe the chapters in detail so I don't spoil the game.
 
 ## How to run:
-1. Compile the program.
-2. Run 'main.java'.
-3. Enjoy the game.
+1. Install the source code.
+2. Unzip the zip file.
+3. Open it as a project in the IDE you use.
+4. Run 'main.java'.
+5. Enjoy the game.
 
 ## Why built it:
 
